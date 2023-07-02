@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capture_Content_From_Pdf", "Capture_Content_From_Pdf\Capture_Content_From_Pdf.csproj", "{69A5FC82-0F02-4988-B7AE-E88EB9A8A5CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69A5FC82-0F02-4988-B7AE-E88EB9A8A5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A5FC82-0F02-4988-B7AE-E88EB9A8A5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A5FC82-0F02-4988-B7AE-E88EB9A8A5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A5FC82-0F02-4988-B7AE-E88EB9A8A5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D50414EE-04A3-44D2-9F19-B56F4F3C004F}
+	EndGlobalSection
+EndGlobal
