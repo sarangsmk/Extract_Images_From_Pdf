@@ -1,4 +1,4 @@
-# Extract_Images_From_Pdf
+# Extract Images From Pdf
 Utility project/file which extracts images from a given pdf file.
 
 Class or function will read the content from the given pdf file and generate images from it with the help of [iTextSharp](https://www.nuget.org/packages/iTextSharp) Nuget Package.
